@@ -1,3 +1,22 @@
+## sparse_bundle_adjustment (indigo) - 0.3.0-0
+
+The packages in the `sparse_bundle_adjustment` repository were released into the `indigo` distro by running `/usr/bin/bloom-release sparse_bundle_adjustment -t indigo -r indigo --new-track` on `Mon, 16 Jun 2014 09:25:02 -0000`
+
+The `sparse_bundle_adjustment` package was released.
+
+Version of package(s) in repository `sparse_bundle_adjustment`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.30`
+
+
 sparse_bundle_adjustment-release
 ================================
 
